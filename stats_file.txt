@@ -1,0 +1,1239 @@
+
+Aatrox
+Attack Damage: : 55 (+3.2 per level)
+Attack Speed: : 0.651 (+3% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 395 (+85 per level)
+Health Regen: : 5.75 (+0.5 per level)
+Movement Speed: : 345
+Armor: : 14 (+3.8 per level)
+
+Ahri
+Mana: : 230 (+50 per level)
+Attack Damage: : 50 (+3 per level)
+Mana Regen: : 6.25 (+0.6 per level)
+Attack Speed: : 0.668 (+2% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 380 (+80 per level)
+Health Regen: : 5.5 (+0.6 per level)
+Movement Speed: : 330
+Armor: : 11 (+3.5 per level)
+
+Akali
+Attack Damage: : 53 (+3.2 per level)
+Attack Speed: : 0.694 (+3.1% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 445 (+85 per level)
+Health Regen: : 7.25 (+0.65 per level)
+Movement Speed: : 350
+Energy: : 200
+Energy Regen: : 50
+Armor: : 16.5 (+3.5 per level)
+
+Alistar
+Mana: : 215 (+38 per level)
+Attack Damage: : 55.03 (+3.62 per level)
+Mana Regen: : 6.45 (+0.45 per level)
+Attack Speed: : 0.625 (+2.125% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 442 (+102 per level)
+Health Regen: : 7.25 (+0.85 per level)
+Movement Speed: : 330
+Armor: : 14.5 (+3.5 per level)
+
+Amumu
+Mana: : 220 (+40 per level)
+Attack Damage: : 47 (+3.8 per level)
+Mana Regen: : 6.5 (+0.525 per level)
+Attack Speed: : 0.638 (+2.18% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 472 (+84 per level)
+Health Regen: : 7.45 (+0.85 per level)
+Movement Speed: : 335
+Armor: : 18 (+3.3 per level)
+
+Anivia
+Mana: : 257 (+53 per level)
+Attack Damage: : 48 (+3.2 per level)
+Mana Regen: : 7 (+0.6 per level)
+Attack Speed: : 0.625 (+1.68% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 350 (+70 per level)
+Health Regen: : 4.65 (+0.55 per level)
+Movement Speed: : 325
+Armor: : 10.5 (+4 per level)
+
+Annie
+Mana: : 250 (+50 per level)
+Attack Damage: : 48 (+2.625 per level)
+Mana Regen: : 6.9 (+0.6 per level)
+Attack Speed: : 0.579 (+1.36% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 384 (+76 per level)
+Health Regen: : 4.5 (+0.55 per level)
+Movement Speed: : 335
+Armor: : 8.5 (+4 per level)
+
+Ashe
+Mana: : 173 (+35 per level)
+Attack Damage: : 46.3 (+2.85 per level)
+Mana Regen: : 6.3 (+0.4 per level)
+Attack Speed: : 0.658 (+4% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 395 (+79 per level)
+Health Regen: : 4.5 (+0.55 per level)
+Movement Speed: : 325
+Armor: : 11.5 (+3.4 per level)
+
+Blitzcrank
+Mana: : 200 (+40 per level)
+Attack Damage: : 55.66 (+3.5 per level)
+Mana Regen: : 6.6 (+0.5 per level)
+Attack Speed: : 0.625 (+1.13% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 423 (+95 per level)
+Health Regen: : 7.25 (+0.75 per level)
+Movement Speed: : 325
+Armor: : 14.5 (+3.5 per level)
+
+Brand
+Mana: : 250 (+45 per level)
+Attack Damage: : 52 (+3 per level)
+Mana Regen: : 7 (+0.6 per level)
+Attack Speed: : 0.625 (+1.36% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 380 (+76 per level)
+Health Regen: : 4.5 (+0.55 per level)
+Movement Speed: : 340
+Armor: : 12 (+3.5 per level)
+
+Caitlyn
+Mana: : 255 (+35 per level)
+Attack Damage: : 47 (+3 per level)
+Mana Regen: : 6.5 (+0.55 per level)
+Attack Speed: : 0.625 (+4% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 390 (+80 per level)
+Health Regen: : 4.75 (+0.55 per level)
+Movement Speed: : 325
+Armor: : 13 (+3.5 per level)
+
+Cassiopeia
+Mana: : 250 (+50 per level)
+Attack Damage: : 47 (+3.2 per level)
+Mana Regen: : 7.1 (+0.75 per level)
+Attack Speed: : 0.647 (+1.68% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 380 (+75 per level)
+Health Regen: : 4.85 (+0.5 per level)
+Movement Speed: : 335
+Armor: : 11.5 (+4 per level)
+
+Chogath
+Mana: : 205 (+40 per level)
+Attack Damage: : 54.1 (+4.2 per level)
+Mana Regen: : 6.45 (+0.45 per level)
+Attack Speed: : 0.625 (+1.44% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 440 (+80 per level)
+Health Regen: : 7.5 (+0.85 per level)
+Movement Speed: : 345
+Armor: : 19 (+3.5 per level)
+
+Corki
+Mana: : 243 (+37 per level)
+Attack Damage: : 48.2 (+3 per level)
+Mana Regen: : 6.5 (+0.55 per level)
+Attack Speed: : 0.658 (+2.3% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 375 (+82 per level)
+Health Regen: : 4.5 (+0.55 per level)
+Movement Speed: : 325
+Armor: : 13.5 (+3.5 per level)
+
+Darius
+Mana: : 200 (+37.5 per level)
+Attack Damage: : 50 (+3.5 per level)
+Mana Regen: : 6 (+0.35 per level)
+Attack Speed: : 0.679 (+2.65% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 426 (+93 per level)
+Health Regen: : 8.25 (+0.95 per level)
+Movement Speed: : 340
+Armor: : 20 (+3.5 per level)
+
+Diana
+Mana: : 230 (+40 per level)
+Attack Damage: : 48 (+3 per level)
+Mana Regen: : 7 (+0.6 per level)
+Attack Speed: : 0.625 (+2.25% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 438 (+90 per level)
+Health Regen: : 6 (+0.85 per level)
+Movement Speed: : 345
+Armor: : 16 (+3.6 per level)
+
+Drmundo
+Attack Damage: : 56.23 (+3 per level)
+Attack Speed: : 0.625 (+2.8% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 433 (+89 per level)
+Health Regen: : 6.5 (+0.75 per level)
+Movement Speed: : 345
+Armor: : 17 (+3.5 per level)
+
+Draven
+Mana: : 240 (+42 per level)
+Attack Damage: : 46.5 (+3.5 per level)
+Mana Regen: : 6.95 (+0.65 per level)
+Attack Speed: : 0.679 (+2.7% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 420 (+82 per level)
+Health Regen: : 5 (+0.7 per level)
+Movement Speed: : 330
+Armor: : 16 (+3.3 per level)
+
+Elise
+Mana: : 240 (+50 per level)
+Attack Damage: : 47.5 (+3 per level)
+Mana Regen: : 6.8 (+0.65 per level)
+Attack Speed: : 0.625 (+1.75% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 395 (+80 per level)
+Health Regen: : 4.7 (+0.6 per level)
+Movement Speed: : 335
+Armor: : 12.5 (+3.35 per level)
+
+Evelynn
+Mana: : 190 (+45 per level)
+Attack Damage: : 48 (+3.5 per level)
+Mana Regen: : 7.1 (+0.6 per level)
+Attack Speed: : 0.625 (+3.6% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 380 (+90 per level)
+Health Regen: : 8.9 (+0.55 per level)
+Movement Speed: : 340
+Armor: : 12 (+4 per level)
+
+Ezreal
+Mana: : 235 (+45 per level)
+Attack Damage: : 47.2 (+3 per level)
+Mana Regen: : 7 (+0.65 per level)
+Attack Speed: : 0.625 (+2.8% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 350 (+80 per level)
+Health Regen: : 5.5 (+0.55 per level)
+Movement Speed: : 325
+Armor: : 12 (+3.5 per level)
+
+Fiddlesticks
+Mana: : 251 (+59 per level)
+Attack Damage: : 45.95 (+2.625 per level)
+Mana Regen: : 6.9 (+0.65 per level)
+Attack Speed: : 0.625 (+2.11% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 390 (+80 per level)
+Health Regen: : 4.6 (+0.6 per level)
+Movement Speed: : 335
+Armor: : 11 (+3.5 per level)
+
+Fiora
+Mana: : 220 (+40 per level)
+Attack Damage: : 54.5 (+3.2 per level)
+Mana Regen: : 6.75 (+0.5 per level)
+Attack Speed: : 0.672 (+3% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 450 (+85 per level)
+Health Regen: : 5.5 (+0.8 per level)
+Movement Speed: : 350
+Armor: : 15 (+3.5 per level)
+
+Fizz
+Mana: : 200 (+40 per level)
+Attack Damage: : 53 (+3 per level)
+Mana Regen: : 6.1 (+0.45 per level)
+Attack Speed: : 0.658 (+3.1% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 414 (+86 per level)
+Health Regen: : 7 (+0.7 per level)
+Movement Speed: : 335
+Armor: : 12.7 (+3.4 per level)
+
+Galio
+Mana: : 235 (+50 per level)
+Attack Damage: : 56.3 (+3.375 per level)
+Mana Regen: : 7 (+0.7 per level)
+Attack Speed: : 0.638 (+1.2% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 435 (+85 per level)
+Health Regen: : 7.45 (+0.75 per level)
+Movement Speed: : 335
+Armor: : 17 (+3.5 per level)
+
+Gangplank
+Mana: : 215 (+40 per level)
+Attack Damage: : 54 (+3 per level)
+Mana Regen: : 6.5 (+0.7 per level)
+Attack Speed: : 0.651 (+2.75% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 495 (+81 per level)
+Health Regen: : 4.25 (+0.75 per level)
+Movement Speed: : 345
+Armor: : 16.5 (+3.3 per level)
+
+Garen
+Attack Damage: : 52 (+3.5 per level)
+Attack Speed: : 0.625 (+2.9% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 455 (+96 per level)
+Health Regen: : 7.45 (+0.75 per level)
+Movement Speed: : 345
+Armor: : 19 (+2.7 per level)
+
+Gragas
+Mana: : 221 (+47 per level)
+Attack Damage: : 55.78 (+3.375 per level)
+Mana Regen: : 6.45 (+0.45 per level)
+Attack Speed: : 0.651 (+2.05% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 434 (+89 per level)
+Health Regen: : 7.25 (+0.85 per level)
+Movement Speed: : 340
+Armor: : 16 (+3.6 per level)
+
+Graves
+Mana: : 255 (+40 per level)
+Attack Damage: : 51 (+3.1 per level)
+Mana Regen: : 6.75 (+0.7 per level)
+Attack Speed: : 0.625 (+2.9% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 410 (+84 per level)
+Health Regen: : 5.5 (+0.7 per level)
+Movement Speed: : 330
+Armor: : 15 (+3.2 per level)
+
+Hecarim
+Mana: : 210 (+40 per level)
+Attack Damage: : 56 (+3.2 per level)
+Mana Regen: : 6.5 (+0.6 per level)
+Attack Speed: : 0.670 (+2.5% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 440 (+95 per level)
+Health Regen: : 8 (+0.75 per level)
+Movement Speed: : 345
+Armor: : 16 (+4 per level)
+
+Heimerdinger
+Mana: : 240 (+65 per level)
+Attack Damage: : 49.24 (+3 per level)
+Mana Regen: : 7 (+0.65 per level)
+Attack Speed: : 0.625 (+1.21% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 350 (+75 per level)
+Health Regen: : 4.5 (+0.55 per level)
+Movement Speed: : 325
+Armor: : 7 (+3 per level)
+
+Irelia
+Mana: : 230 (+35 per level)
+Attack Damage: : 56 (+3.3 per level)
+Mana Regen: : 7 (+0.65 per level)
+Attack Speed: : 0.665 (+3.2% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 456 (+90 per level)
+Health Regen: : 7.5 (+0.65 per level)
+Movement Speed: : 345
+Armor: : 15 (+3.75 per level)
+
+Janna
+Mana: : 302 (+64 per level)
+Attack Damage: : 49 (+2.95 per level)
+Mana Regen: : 6.9 (+0.6 per level)
+Attack Speed: : 0.625 (+2.61% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 356 (+78 per level)
+Health Regen: : 4.5 (+0.55 per level)
+Movement Speed: : 335
+Armor: : 9 (+3.8 per level)
+
+Jarvaniv
+Mana: : 235 (+40 per level)
+Attack Damage: : 50 (+3.4 per level)
+Mana Regen: : 6 (+0.45 per level)
+Attack Speed: : 0.658 (+2.5% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 420 (+90 per level)
+Health Regen: : 7 (+0.7 per level)
+Movement Speed: : 340
+Armor: : 14 (+3.6 per level)
+
+Jax
+Mana: : 230 (+35 per level)
+Attack Damage: : 56.3 (+3.375 per level)
+Mana Regen: : 6.4 (+0.7 per level)
+Attack Speed: : 0.638 (+3.4% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 463 (+98 per level)
+Health Regen: : 7.45 (+0.55 per level)
+Movement Speed: : 350
+Armor: : 18 (+3.5 per level)
+
+Jayce
+Mana: : 240 (+40 per level)
+Attack Damage: : 46.5 (+3.5 per level)
+Mana Regen: : 7 (+0.7 per level)
+Attack Speed: : 0.658 (+3% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 420 (+90 per level)
+Health Regen: : 6 (+0.8 per level)
+Movement Speed: : 335
+Armor: : 12.5 (+3.5 per level)
+
+Karma
+Mana: : 290 (+50 per level)
+Attack Damage: : 50 (+3.3 per level)
+Mana Regen: : 6.8 (+0.65 per level)
+Attack Speed: : 0.625 (+2.3% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 383 (+83 per level)
+Health Regen: : 4.7 (+0.55 per level)
+Movement Speed: : 335
+Armor: : 10 (+3.8 per level)
+
+Karthus
+Mana: : 270 (+61 per level)
+Attack Damage: : 42.2 (+3.25 per level)
+Mana Regen: : 6.5 (+0.6 per level)
+Attack Speed: : 0.625 (+2.11% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 390 (+75 per level)
+Health Regen: : 5.5 (+0.55 per level)
+Movement Speed: : 335
+Armor: : 11 (+3.5 per level)
+
+Kassadin
+Mana: : 230 (+45 per level)
+Attack Damage: : 52.3 (+3.9 per level)
+Mana Regen: : 6.9 (+0.6 per level)
+Attack Speed: : 0.640 (+3.7% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 433 (+78 per level)
+Health Regen: : 6.95 (+0.5 per level)
+Movement Speed: : 340
+Armor: : 14 (+3.2 per level)
+
+Katarina
+Attack Damage: : 53 (+3.2 per level)
+Attack Speed: : 0.658 (+2.74% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 425 (+80 per level)
+Health Regen: : 6.95 (+0.55 per level)
+Movement Speed: : 345
+Armor: : 17 (+3.5 per level)
+
+Kayle
+Mana: : 255 (+40 per level)
+Attack Damage: : 53.3 (+2.8 per level)
+Mana Regen: : 6.9 (+0.525 per level)
+Attack Speed: : 0.638 (+2.5% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 418 (+93 per level)
+Health Regen: : 7 (+0.75 per level)
+Movement Speed: : 335
+Armor: : 17 (+3.5 per level)
+
+Kennen
+Attack Damage: : 47 (+3.3 per level)
+Attack Speed: : 0.690 (+3.4% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 403 (+79 per level)
+Health Regen: : 4.5 (+0.65 per level)
+Movement Speed: : 335
+Energy: : 200
+Energy Regen: : 50
+Armor: : 14 (+3.75 per level)
+
+Khazix
+Mana: : 260 (+40 per level)
+Attack Damage: : 50 (+3.1 per level)
+Mana Regen: : 6.75 (+0.5 per level)
+Attack Speed: : 0.668 (+2.7% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 430 (+85 per level)
+Health Regen: : 6.25 (+0.75 per level)
+Movement Speed: : 350
+Armor: : 15 (+3 per level)
+
+Kogmaw
+Mana: : 255 (+40 per level)
+Attack Damage: : 46 (+3 per level)
+Mana Regen: : 7.5 (+0.7 per level)
+Attack Speed: : 0.665 (+2.65% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 440 (+84 per level)
+Health Regen: : 5 (+0.55 per level)
+Movement Speed: : 330
+Armor: : 10 (+3.5 per level)
+
+Leblanc
+Mana: : 250 (+50 per level)
+Attack Damage: : 51 (+3.1 per level)
+Mana Regen: : 6.9 (+0.6 per level)
+Attack Speed: : 0.625 (+1.4% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 390 (+75 per level)
+Health Regen: : 4.5 (+0.55 per level)
+Movement Speed: : 335
+Armor: : 12 (+3.5 per level)
+
+Leesin
+Attack Damage: : 55.8 (+3.2 per level)
+Attack Speed: : 0.651 (+3% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 428 (+85 per level)
+Health Regen: : 6.25 (+0.7 per level)
+Movement Speed: : 350
+Energy: : 200
+Energy Regen: : 50
+Armor: : 16 (+3.7 per level)
+
+Leona
+Mana: : 235 (+40 per level)
+Attack Damage: : 55 (+3 per level)
+Mana Regen: : 7 (+0.7 per level)
+Attack Speed: : 0.625 (+2.9% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 430 (+87 per level)
+Health Regen: : 9 (+0.85 per level)
+Movement Speed: : 335
+Armor: : 18 (+3.1 per level)
+
+Lissandra
+Mana: : 220 (+50 per level)
+Attack Damage: : 48 (+2.7 per level)
+Mana Regen: : 5 (+0.4 per level)
+Attack Speed: : 0.625 (+1.36% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 365 (+84 per level)
+Health Regen: : 6 (+0.55 per level)
+Movement Speed: : 325
+Armor: : 10 (+3.7 per level)
+
+Lucian
+Mana: : 230 (+41 per level)
+Attack Damage: : 46 (+3 per level)
+Mana Regen: : 6 (+0.65 per level)
+Attack Speed: : 0.638 (+3.3% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 390 (+80 per level)
+Health Regen: : 5.1 (+0.65 per level)
+Movement Speed: : 330
+Armor: : 15 (+3 per level)
+
+Lulu
+Mana: : 200 (+55 per level)
+Attack Damage: : 44 (+2.6 per level)
+Mana Regen: : 5 (+0.5 per level)
+Attack Speed: : 0.625 (+2.25% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 415 (+82 per level)
+Health Regen: : 5 (+0.6 per level)
+Movement Speed: : 325
+Armor: : 9 (+3.7 per level)
+
+Lux
+Mana: : 250 (+50 per level)
+Attack Damage: : 50 (+3.3 per level)
+Mana Regen: : 6 (+0.6 per level)
+Attack Speed: : 0.625 (+1.36% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 345 (+79 per level)
+Health Regen: : 4.5 (+0.55 per level)
+Movement Speed: : 330
+Armor: : 8 (+4 per level)
+
+Malphite
+Mana: : 215 (+40 per level)
+Attack Damage: : 56.3 (+3.375 per level)
+Mana Regen: : 6.4 (+0.55 per level)
+Attack Speed: : 0.638 (+3.4% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 423 (+90 per level)
+Health Regen: : 7.45 (+0.55 per level)
+Movement Speed: : 335
+Armor: : 18 (+3.75 per level)
+
+Malzahar
+Mana: : 250 (+45 per level)
+Attack Damage: : 51.66 (+3 per level)
+Mana Regen: : 7 (+0.6 per level)
+Attack Speed: : 0.625 (+1.36% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 380 (+80 per level)
+Health Regen: : 4.5 (+0.55 per level)
+Movement Speed: : 340
+Armor: : 12 (+3.5 per level)
+
+Maokai
+Mana: : 250 (+46 per level)
+Attack Damage: : 58 (+3.3 per level)
+Mana Regen: : 6.45 (+0.45 per level)
+Attack Speed: : 0.694 (+2.125% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 421 (+90 per level)
+Health Regen: : 7.25 (+0.85 per level)
+Movement Speed: : 335
+Armor: : 18 (+4 per level)
+
+Masteryi
+Mana: : 180 (+42 per level)
+Attack Damage: : 55 (+3 per level)
+Mana Regen: : 6.5 (+0.45 per level)
+Attack Speed: : 0.679 (+2.75% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 444 (+92 per level)
+Health Regen: : 6.5 (+0.65 per level)
+Movement Speed: : 355
+Armor: : 15 (+3 per level)
+
+Missfortune
+Mana: : 212 (+38 per level)
+Attack Damage: : 46.5 (+3 per level)
+Mana Regen: : 6.95 (+0.65 per level)
+Attack Speed: : 0.656 (+3.01% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 435 (+85 per level)
+Health Regen: : 5.1 (+0.65 per level)
+Movement Speed: : 325
+Armor: : 15 (+3 per level)
+
+Mordekaiser
+Attack Damage: : 51.7 (+3.5 per level)
+Attack Speed: : 0.694 (+3% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 421 (+80 per level)
+Health Regen: : 7.45 (+0.55 per level)
+Movement Speed: : 340
+Armor: : 15 (+3.5 per level)
+
+Morgana
+Mana: : 240 (+60 per level)
+Attack Damage: : 51.58 (+3.5 per level)
+Mana Regen: : 6.8 (+0.65 per level)
+Attack Speed: : 0.579 (+1.53% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 403 (+86 per level)
+Health Regen: : 4.7 (+0.6 per level)
+Movement Speed: : 335
+Armor: : 15 (+3.8 per level)
+
+Nami
+Mana: : 305 (+43 per level)
+Attack Damage: : 48 (+3.1 per level)
+Mana Regen: : 6.9 (+0.6 per level)
+Attack Speed: : 0.644 (+2.61% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 365 (+74 per level)
+Health Regen: : 4.5 (+0.55 per level)
+Movement Speed: : 340
+Armor: : 9 (+4 per level)
+
+Nasus
+Mana: : 200 (+45 per level)
+Attack Damage: : 53.3 (+3.5 per level)
+Mana Regen: : 6.6 (+0.5 per level)
+Attack Speed: : 0.638 (+3.48% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 410 (+90 per level)
+Health Regen: : 7.5 (+0.9 per level)
+Movement Speed: : 350
+Armor: : 15 (+3.5 per level)
+
+Nautilus
+Mana: : 200 (+50 per level)
+Attack Damage: : 52 (+3.3 per level)
+Mana Regen: : 7.45 (+0.7 per level)
+Attack Speed: : 0.613 (+1% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 432 (+86 per level)
+Health Regen: : 7.45 (+0.55 per level)
+Movement Speed: : 325
+Armor: : 16 (+3.25 per level)
+
+Nidalee
+Mana: : 220 (+45 per level)
+Attack Damage: : 49 (+3.5 per level)
+Mana Regen: : 7 (+0.5 per level)
+Attack Speed: : 0.670 (+3.22% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 370 (+90 per level)
+Health Regen: : 5 (+0.6 per level)
+Movement Speed: : 335
+Armor: : 11 (+3.5 per level)
+
+Nocturne
+Mana: : 215 (+35 per level)
+Attack Damage: : 54 (+3.1 per level)
+Mana Regen: : 6 (+0.45 per level)
+Attack Speed: : 0.668 (+2.7% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 440 (+85 per level)
+Health Regen: : 7 (+0.75 per level)
+Movement Speed: : 345
+Armor: : 17 (+3.5 per level)
+
+Nunu
+Mana: : 213 (+42 per level)
+Attack Damage: : 51.06 (+3.45 per level)
+Mana Regen: : 6.6 (+0.5 per level)
+Attack Speed: : 0.625 (+2.25% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 437 (+96 per level)
+Health Regen: : 7.05 (+0.8 per level)
+Movement Speed: : 350
+Armor: : 16.5 (+3.5 per level)
+
+Olaf
+Mana: : 225 (+45 per level)
+Attack Damage: : 54.1 (+3.5 per level)
+Mana Regen: : 6.5 (+0.575 per level)
+Attack Speed: : 0.694 (+2.7% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 441 (+93 per level)
+Health Regen: : 7 (+0.9 per level)
+Movement Speed: : 350
+Armor: : 17 (+3 per level)
+
+Orianna
+Mana: : 250 (+50 per level)
+Attack Damage: : 44 (+2.6 per level)
+Mana Regen: : 7 (+0.5 per level)
+Attack Speed: : 0.658 (+3.5% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 385 (+79 per level)
+Health Regen: : 5.95 (+0.55 per level)
+Movement Speed: : 325
+Armor: : 8 (+3 per level)
+
+Pantheon
+Mana: : 210 (+34 per level)
+Attack Damage: : 50.7 (+2.9 per level)
+Mana Regen: : 6.6 (+0.45 per level)
+Attack Speed: : 0.679 (+2.95% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 433 (+87 per level)
+Health Regen: : 6.75 (+0.65 per level)
+Movement Speed: : 355
+Armor: : 17.1 (+3.9 per level)
+
+Poppy
+Mana: : 185 (+30 per level)
+Attack Damage: : 56.3 (+3.375 per level)
+Mana Regen: : 6.4 (+0.45 per level)
+Attack Speed: : 0.638 (+3.35% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 423 (+81 per level)
+Health Regen: : 7.45 (+0.55 per level)
+Movement Speed: : 345
+Armor: : 18 (+4 per level)
+
+Quinn
+Mana: : 210 (+35 per level)
+Attack Damage: : 48 (+3 per level)
+Mana Regen: : 6.3 (+0.4 per level)
+Attack Speed: : 0.668 (+3.1% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 390 (+85 per level)
+Health Regen: : 4.5 (+0.55 per level)
+Movement Speed: : 335
+Armor: : 13.5 (+3.5 per level)
+
+Rammus
+Mana: : 255 (+33 per level)
+Attack Damage: : 50 (+3.5 per level)
+Mana Regen: : 7 (+0.5 per level)
+Attack Speed: : 0.625 (+2.215% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 420 (+86 per level)
+Health Regen: : 7 (+0.55 per level)
+Movement Speed: : 335
+Armor: : 21 (+3.8 per level)
+
+Renekton
+Attack Damage: : 53.12 (+3.1 per level)
+Attack Speed: : 0.665 (+2.65% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 426 (+87 per level)
+Health Regen: : 6.7 (+0.75 per level)
+Movement Speed: : 345
+Armor: : 15.2 (+3.8 per level)
+
+Rengar
+Attack Damage: : 55 (+3 per level)
+Attack Speed: : 0.679 (+2.85% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 435 (+85 per level)
+Health Regen: : 3.6 (+0.4 per level)
+Movement Speed: : 345
+Armor: : 16 (+3.5 per level)
+
+Riven
+Attack Damage: : 54 (+2.75 per level)
+Attack Speed: : 0.625 (+3.5% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 414 (+86 per level)
+Health Regen: : 5.5 (+0.5 per level)
+Movement Speed: : 345
+Armor: : 15 (+3.2 per level)
+
+Rumble
+Attack Damage: : 55.66 (+3.2 per level)
+Attack Speed: : 0.644 (+1.85% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 450 (+80 per level)
+Health Regen: : 7 (+0.6 per level)
+Movement Speed: : 345
+Armor: : 16 (+3.5 per level)
+
+Ryze
+Mana: : 250 (+55 per level)
+Attack Damage: : 52 (+3 per level)
+Mana Regen: : 7 (+0.6 per level)
+Attack Speed: : 0.625 (+2.112% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 360 (+86 per level)
+Health Regen: : 4.35 (+0.55 per level)
+Movement Speed: : 335
+Armor: : 11 (+3.9 per level)
+
+Sejuani
+Mana: : 220 (+40 per level)
+Attack Damage: : 52 (+3.3 per level)
+Mana Regen: : 6.45 (+0.45 per level)
+Attack Speed: : 0.670 (+1.44% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 440 (+95 per level)
+Health Regen: : 7.25 (+0.85 per level)
+Movement Speed: : 340
+Armor: : 20.5 (+3 per level)
+
+Shaco
+Mana: : 230 (+40 per level)
+Attack Damage: : 51.7 (+3.5 per level)
+Mana Regen: : 6.4 (+0.45 per level)
+Attack Speed: : 0.694 (+3% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 441 (+84 per level)
+Health Regen: : 7.45 (+0.55 per level)
+Movement Speed: : 350
+Armor: : 15 (+3.5 per level)
+
+Shen
+Attack Damage: : 54.5 (+3.375 per level)
+Attack Speed: : 0.651 (+3.4% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 428 (+85 per level)
+Health Regen: : 7.45 (+0.55 per level)
+Movement Speed: : 335
+Energy: : 200
+Energy Regen: : 50
+Armor: : 15 (+4 per level)
+
+Shyvana
+Attack Damage: : 55 (+3.4 per level)
+Attack Speed: : 0.658 (+2.5% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 435 (+95 per level)
+Health Regen: : 7.25 (+0.8 per level)
+Movement Speed: : 350
+Armor: : 18 (+3.35 per level)
+
+Singed
+Mana: : 215 (+45 per level)
+Attack Damage: : 56.65 (+3.375 per level)
+Mana Regen: : 6.6 (+0.55 per level)
+Attack Speed: : 0.613 (+1.81% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 405 (+82 per level)
+Health Regen: : 7.1 (+0.55 per level)
+Movement Speed: : 345
+Armor: : 18 (+3.5 per level)
+
+Sion
+Mana: : 200 (+40 per level)
+Attack Damage: : 55.52 (+3.1875 per level)
+Mana Regen: : 6.3 (+0.4 per level)
+Attack Speed: : 0.625 (+1.63% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 403 (+104 per level)
+Health Regen: : 7.9 (+0.95 per level)
+Movement Speed: : 345
+Armor: : 17.75 (+3.25 per level)
+
+Sivir
+Mana: : 203 (+43 per level)
+Attack Damage: : 49 (+2.9 per level)
+Mana Regen: : 6.5 (+0.5 per level)
+Attack Speed: : 0.658 (+3.28% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 378 (+82 per level)
+Health Regen: : 4.25 (+0.55 per level)
+Movement Speed: : 335
+Armor: : 12.75 (+3.25 per level)
+
+Skarner
+Mana: : 205 (+40 per level)
+Attack Damage: : 54.1 (+4.2 per level)
+Mana Regen: : 6.45 (+0.45 per level)
+Attack Speed: : 0.625 (+2.1% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 440 (+96 per level)
+Health Regen: : 7.5 (+0.85 per level)
+Movement Speed: : 345
+Armor: : 19 (+3.8 per level)
+
+Sona
+Mana: : 265 (+45 per level)
+Attack Damage: : 47 (+3 per level)
+Mana Regen: : 7 (+0.65 per level)
+Attack Speed: : 0.644 (+2.3% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 380 (+70 per level)
+Health Regen: : 4.5 (+0.55 per level)
+Movement Speed: : 330
+Armor: : 8 (+3.3 per level)
+
+Soraka
+Mana: : 240 (+60 per level)
+Attack Damage: : 48.8 (+3 per level)
+Mana Regen: : 6.8 (+0.65 per level)
+Attack Speed: : 0.625 (+2.14% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 375 (+71 per level)
+Health Regen: : 4.5 (+0.55 per level)
+Movement Speed: : 335
+Armor: : 7.4 (+3.8 per level)
+
+Swain
+Mana: : 240 (+50 per level)
+Attack Damage: : 49 (+3 per level)
+Mana Regen: : 6.8 (+0.65 per level)
+Attack Speed: : 0.625 (+2.11% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 385 (+78 per level)
+Health Regen: : 6.75 (+0.65 per level)
+Movement Speed: : 335
+Armor: : 12 (+4 per level)
+
+Syndra
+Mana: : 250 (+50 per level)
+Attack Damage: : 51 (+2.9 per level)
+Mana Regen: : 6.9 (+0.6 per level)
+Attack Speed: : 0.625 (+2% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 380 (+78 per level)
+Health Regen: : 5.5 (+0.6 per level)
+Movement Speed: : 330
+Armor: : 15 (+3.4 per level)
+
+Talon
+Mana: : 260 (+40 per level)
+Attack Damage: : 50 (+3.1 per level)
+Mana Regen: : 6.75 (+0.5 per level)
+Attack Speed: : 0.668 (+2.7% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 440 (+85 per level)
+Health Regen: : 7.25 (+0.75 per level)
+Movement Speed: : 350
+Armor: : 17 (+3.5 per level)
+
+Taric
+Mana: : 255 (+56 per level)
+Attack Damage: : 52 (+3.5 per level)
+Mana Regen: : 4.1 (+0.4 per level)
+Attack Speed: : 0.625 (+2.02% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 468 (+90 per level)
+Health Regen: : 7.1 (+0.5 per level)
+Movement Speed: : 340
+Armor: : 16.5 (+3.2 per level)
+
+Teemo
+Mana: : 200 (+40 per level)
+Attack Damage: : 44.5 (+3 per level)
+Mana Regen: : 6.45 (+0.45 per level)
+Attack Speed: : 0.690 (+3.38% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 378 (+82 per level)
+Health Regen: : 4.65 (+0.65 per level)
+Movement Speed: : 330
+Armor: : 14 (+3.75 per level)
+
+Thresh
+Mana: : 200 (+44 per level)
+Attack Damage: : 46 (+2.2 per level)
+Mana Regen: : 5 (+0.7 per level)
+Attack Speed: : 0.625 (+1% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 411 (+89 per level)
+Health Regen: : 6 (+0.55 per level)
+Movement Speed: : 335
+Armor: : 12 (+0 per level)
+
+Tristana
+Mana: : 193 (+32 per level)
+Attack Damage: : 46.5 (+3 per level)
+Mana Regen: : 6.45 (+0.45 per level)
+Attack Speed: : 0.656 (+4% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 415 (+82 per level)
+Health Regen: : 5.1 (+0.65 per level)
+Movement Speed: : 325
+Armor: : 15 (+3 per level)
+
+Trundle
+Mana: : 206 (+45 per level)
+Attack Damage: : 55 (+3 per level)
+Mana Regen: : 6.5 (+0.6 per level)
+Attack Speed: : 0.670 (+2.9% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 455 (+96 per level)
+Health Regen: : 8 (+0.85 per level)
+Movement Speed: : 350
+Armor: : 19 (+2.7 per level)
+
+Tryndamere
+Attack Damage: : 56 (+3.2 per level)
+Attack Speed: : 0.670 (+2.9% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 461 (+98 per level)
+Health Regen: : 7 (+0.9 per level)
+Movement Speed: : 345
+Armor: : 14.9 (+3.1 per level)
+
+Twistedfate
+Mana: : 202 (+38 per level)
+Attack Damage: : 46.41 (+3.3 per level)
+Mana Regen: : 6.5 (+0.5 per level)
+Attack Speed: : 0.651 (+3.22% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 384 (+82 per level)
+Health Regen: : 4.5 (+0.6 per level)
+Movement Speed: : 330
+Armor: : 11.25 (+3.15 per level)
+
+Twitch
+Mana: : 220 (+40 per level)
+Attack Damage: : 49 (+3 per level)
+Mana Regen: : 6.5 (+0.45 per level)
+Attack Speed: : 0.679 (+3.38% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 389 (+81 per level)
+Health Regen: : 5 (+0.6 per level)
+Movement Speed: : 330
+Armor: : 14 (+3 per level)
+
+Udyr
+Mana: : 220 (+30 per level)
+Attack Damage: : 52.91 (+3.2 per level)
+Mana Regen: : 6.75 (+0.45 per level)
+Attack Speed: : 0.658 (+2.67% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 427 (+99 per level)
+Health Regen: : 7.45 (+0.75 per level)
+Movement Speed: : 345
+Armor: : 14.75 (+4 per level)
+
+Urgot
+Mana: : 220 (+55 per level)
+Attack Damage: : 48 (+3.6 per level)
+Mana Regen: : 7.5 (+0.65 per level)
+Attack Speed: : 0.644 (+2.9% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 437 (+89 per level)
+Health Regen: : 5.5 (+0.6 per level)
+Movement Speed: : 335
+Armor: : 15 (+3.3 per level)
+
+Varus
+Mana: : 250 (+36 per level)
+Attack Damage: : 46 (+3 per level)
+Mana Regen: : 6.5 (+0.5 per level)
+Attack Speed: : 0.658 (+3% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 400 (+82 per level)
+Health Regen: : 4.5 (+0.55 per level)
+Movement Speed: : 330
+Armor: : 13.5 (+3.4 per level)
+
+Vayne
+Mana: : 173 (+35 per level)
+Attack Damage: : 50 (+3.25 per level)
+Mana Regen: : 6.3 (+0.4 per level)
+Attack Speed: : 0.658 (+3.1% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 359 (+83 per level)
+Health Regen: : 4.5 (+0.55 per level)
+Movement Speed: : 330
+Armor: : 9.3 (+3.4 per level)
+
+Veigar
+Mana: : 250 (+55 per level)
+Attack Damage: : 48.3 (+2.625 per level)
+Mana Regen: : 6.9 (+0.6 per level)
+Attack Speed: : 0.625 (+2.24% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 355 (+82 per level)
+Health Regen: : 4.5 (+0.55 per level)
+Movement Speed: : 340
+Armor: : 12.25 (+3.75 per level)
+
+Vi
+Mana: : 220 (+45 per level)
+Attack Damage: : 50 (+3.5 per level)
+Mana Regen: : 7 (+0.65 per level)
+Attack Speed: : 0.644 (+2.5% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 440 (+85 per level)
+Health Regen: : 7.5 (+0.9 per level)
+Movement Speed: : 350
+Armor: : 16 (+3.5 per level)
+
+Viktor
+Mana: : 240 (+50 per level)
+Attack Damage: : 49 (+3 per level)
+Mana Regen: : 6.9 (+0.45 per level)
+Attack Speed: : 0.625 (+2.11% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 385 (+78 per level)
+Health Regen: : 6.75 (+0.65 per level)
+Movement Speed: : 335
+Armor: : 12 (+4 per level)
+
+Vladimir
+Attack Damage: : 45 (+3 per level)
+Attack Speed: : 0.658 (+2% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 400 (+85 per level)
+Health Regen: : 6 (+0.6 per level)
+Movement Speed: : 335
+Armor: : 12 (+3.5 per level)
+
+Volibear
+Mana: : 220 (+30 per level)
+Attack Damage: : 54 (+3.3 per level)
+Mana Regen: : 7 (+0.65 per level)
+Attack Speed: : 0.658 (+2.67% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 440 (+86 per level)
+Health Regen: : 7 (+0.65 per level)
+Movement Speed: : 345
+Armor: : 16.5 (+3.5 per level)
+
+Warwick
+Mana: : 190 (+30 per level)
+Attack Damage: : 56.76 (+3.375 per level)
+Mana Regen: : 7.1 (+0.6 per level)
+Attack Speed: : 0.679 (+2.88% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 428 (+98 per level)
+Health Regen: : 7.05 (+0.8 per level)
+Movement Speed: : 345
+Armor: : 16 (+3.5 per level)
+
+Monkeyking
+Mana: : 202 (+38 per level)
+Attack Damage: : 54.5 (+3.2 per level)
+Mana Regen: : 6.95 (+0.65 per level)
+Attack Speed: : 0.658 (+3% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 435 (+85 per level)
+Health Regen: : 5.1 (+0.65 per level)
+Movement Speed: : 345
+Armor: : 15 (+3.5 per level)
+
+Xerath
+Mana: : 250 (+45 per level)
+Attack Damage: : 51.66 (+3 per level)
+Mana Regen: : 7 (+0.6 per level)
+Attack Speed: : 0.625 (+1.36% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 380 (+80 per level)
+Health Regen: : 4.5 (+0.55 per level)
+Movement Speed: : 340
+Armor: : 12 (+3.5 per level)
+
+Xinzhao
+Mana: : 215 (+35 per level)
+Attack Damage: : 52 (+3.3 per level)
+Mana Regen: : 6.5 (+0.45 per level)
+Attack Speed: : 0.672 (+2.6% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 445 (+87 per level)
+Health Regen: : 7 (+0.7 per level)
+Movement Speed: : 345
+Armor: : 16 (+3.5 per level)
+
+Yorick
+Mana: : 235 (+35 per level)
+Attack Damage: : 51.7 (+3.5 per level)
+Mana Regen: : 6 (+0.45 per level)
+Attack Speed: : 0.625 (+3% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 421 (+85 per level)
+Health Regen: : 7 (+0.7 per level)
+Movement Speed: : 345
+Armor: : 15 (+3.6 per level)
+
+Zac
+Attack Damage: : 54 (+3.375 per level)
+Attack Speed: : 0.638 (+1.6% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 455 (+95 per level)
+Health Regen: : 7 (+0.55 per level)
+Movement Speed: : 335
+Armor: : 14 (+3.5 per level)
+
+Zed
+Attack Damage: : 49 (+3.4 per level)
+Attack Speed: : 0.658 (+3.1% per level)
+Magic Resist: : 30 (+1.25 per level)
+Health: : 445 (+80 per level)
+Health Regen: : 6 (+0.65 per level)
+Movement Speed: : 345
+Energy: : 200
+Energy Regen: : 50
+Armor: : 17 (+3.5 per level)
+
+Ziggs
+Mana: : 250 (+50 per level)
+Attack Damage: : 51 (+3.1 per level)
+Mana Regen: : 6.75 (+0.6 per level)
+Attack Speed: : 0.656 (+2% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 390 (+80 per level)
+Health Regen: : 5.25 (+0.6 per level)
+Movement Speed: : 330
+Armor: : 12 (+3.3 per level)
+
+Zilean
+Mana: : 260 (+60 per level)
+Attack Damage: : 48.6 (+3 per level)
+Mana Regen: : 6.95 (+0.65 per level)
+Attack Speed: : 0.625 (+2.13% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 380 (+71 per level)
+Health Regen: : 4.6 (+0.5 per level)
+Movement Speed: : 335
+Armor: : 6.75 (+3.8 per level)
+
+Zyra
+Mana: : 250 (+50 per level)
+Attack Damage: : 50 (+3.2 per level)
+Mana Regen: : 7.1 (+0.75 per level)
+Attack Speed: : 0.625 (+2.11% per level)
+Magic Resist: : 30 (+0 per level)
+Health: : 355 (+74 per level)
+Health Regen: : 4.85 (+0.5 per level)
+Movement Speed: : 325
+Armor: : 11 (+3 per level)
